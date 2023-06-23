@@ -1,9 +1,10 @@
-# Mlflow tracking server
+# MLflow tracking server
 
+My own version for personal use.
 
 ## Running the server
 
-1. 
+1. Build image and 
 ```sh
 docker build -t mlflow .
 docker-compose up -d
