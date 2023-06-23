@@ -4,7 +4,7 @@ My own version for personal use.
 
 ## Running the server
 
-1. Build image and 
+1. Build image and start containers.
 ```sh
 docker build -t mlflow .
 docker-compose up -d
