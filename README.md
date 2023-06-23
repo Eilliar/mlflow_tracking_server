@@ -12,7 +12,7 @@ docker-compose up -d
 
 2. Access MLflow UI with http://localhost:5000
 
-3 .Access MinIO UI with http://localhost:9000
+3. Access MinIO UI with http://localhost:9000
 
 # About
 
